@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Display_Four_Pattern_Using_Loops.dir/Display_four_pattern_using_loops.cpp.o -o Display_Four_Pattern_Using_Loops 
