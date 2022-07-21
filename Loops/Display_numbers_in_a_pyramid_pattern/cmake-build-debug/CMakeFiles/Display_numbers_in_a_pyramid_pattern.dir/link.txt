@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Display_numbers_in_a_pyramid_pattern.dir/main.cpp.o -o Display_numbers_in_a_pyramid_pattern 

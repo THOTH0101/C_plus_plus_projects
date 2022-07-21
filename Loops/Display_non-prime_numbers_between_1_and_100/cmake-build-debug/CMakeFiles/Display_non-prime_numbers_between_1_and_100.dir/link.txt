@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Display_non-prime_numbers_between_1_and_100.dir/main.cpp.o -o Display_non-prime_numbers_between_1_and_100 
