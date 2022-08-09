@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Loan_amortization_schedule.dir/main.cpp.o -o Loan_amortization_schedule 

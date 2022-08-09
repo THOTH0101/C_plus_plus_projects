@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Display_the_Sundays_in_a_month.dir/main.cpp.o -o Display_the_Sundays_in_a_month 
