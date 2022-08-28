@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/palindrome_number_2.dir/main.cpp.o -o palindrome_number_2 

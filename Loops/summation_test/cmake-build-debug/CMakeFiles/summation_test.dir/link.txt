@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/summation_test.dir/main.cpp.o -o summation_test 

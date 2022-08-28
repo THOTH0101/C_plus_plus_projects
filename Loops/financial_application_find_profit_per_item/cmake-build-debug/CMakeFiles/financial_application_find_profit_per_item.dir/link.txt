@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/financial_application_find_profit_per_item.dir/main.cpp.o -o financial_application_find_profit_per_item 
