@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Sum_average_and_product_of_numbers.dir/main.cpp.o -o Sum_average_and_product_of_numbers 

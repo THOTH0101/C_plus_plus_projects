@@ -1,0 +1,3 @@
+/home/THOTH0101/CLionProjects/Math_tutor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/THOTH0101/CLionProjects/Math_tutor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/THOTH0101/CLionProjects/Math_tutor/cmake-build-debug/CMakeFiles/Math_tutor.dir

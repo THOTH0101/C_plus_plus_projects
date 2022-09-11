@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Business_check_ISBN_13.dir/main.cpp.o -o Business_check_ISBN_13 

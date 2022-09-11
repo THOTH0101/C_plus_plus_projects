@@ -1,0 +1,3 @@
+/home/THOTH0101/CLionProjects/computer_architecture_bit-level_operations/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/THOTH0101/CLionProjects/computer_architecture_bit-level_operations/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/THOTH0101/CLionProjects/computer_architecture_bit-level_operations/cmake-build-debug/CMakeFiles/computer_architecture_bit_level_operations.dir

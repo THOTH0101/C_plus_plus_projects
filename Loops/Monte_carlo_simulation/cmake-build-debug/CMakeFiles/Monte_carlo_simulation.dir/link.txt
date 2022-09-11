@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Monte_carlo_simulation.dir/main.cpp.o -o Monte_carlo_simulation 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Math_tutor.dir/main.cpp.o -o Math_tutor 

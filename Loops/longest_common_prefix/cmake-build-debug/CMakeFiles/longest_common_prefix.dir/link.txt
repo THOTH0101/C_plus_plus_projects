@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/longest_common_prefix.dir/main.cpp.o -o longest_common_prefix 

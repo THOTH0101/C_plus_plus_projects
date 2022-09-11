@@ -1,0 +1,3 @@
+/home/THOTH0101/CLionProjects/statistics_compute_mean_and_standard_deviation/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/THOTH0101/CLionProjects/statistics_compute_mean_and_standard_deviation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/THOTH0101/CLionProjects/statistics_compute_mean_and_standard_deviation/cmake-build-debug/CMakeFiles/statistics_compute_mean_and_standard_deviation.dir

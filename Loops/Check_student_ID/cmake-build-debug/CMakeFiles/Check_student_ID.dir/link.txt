@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Check_student_ID.dir/main.cpp.o -o Check_student_ID 
