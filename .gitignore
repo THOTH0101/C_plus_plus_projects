@@ -1,2 +1,6 @@
 #ignore all .idea folders
+<<<<<<< HEAD
 **.idea/
+=======
+*.idea
+>>>>>>> 784058669009e2ca56c49d89174868ba2ee12131
