@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Display_even_digits_in_an_integer.dir/main.cpp.o -o Display_even_digits_in_an_integer 

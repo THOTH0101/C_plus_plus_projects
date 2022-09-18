@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Math_triangular_numbers.dir/main.cpp.o -o Math_triangular_numbers 
