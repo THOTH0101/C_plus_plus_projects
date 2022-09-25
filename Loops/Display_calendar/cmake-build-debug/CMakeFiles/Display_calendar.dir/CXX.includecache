@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/THOTH0101/CLionProjects/Display_calendar/main.cpp
+/home/THOTH0101/c_plus_plus_projects/Loops/Display_calendar/main.cpp
 iostream
 -
 iomanip

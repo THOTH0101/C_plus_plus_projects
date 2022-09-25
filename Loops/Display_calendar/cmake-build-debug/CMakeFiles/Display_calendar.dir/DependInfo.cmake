@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/THOTH0101/CLionProjects/Display_calendar/main.cpp" "/home/THOTH0101/CLionProjects/Display_calendar/cmake-build-debug/CMakeFiles/Display_calendar.dir/main.cpp.o"
+  "/home/THOTH0101/c_plus_plus_projects/Loops/Display_calendar/main.cpp" "/home/THOTH0101/c_plus_plus_projects/Loops/Display_calendar/cmake-build-debug/CMakeFiles/Display_calendar.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

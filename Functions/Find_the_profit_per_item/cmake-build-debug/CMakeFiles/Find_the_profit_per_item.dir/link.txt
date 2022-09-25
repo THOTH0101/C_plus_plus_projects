@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Find_the_profit_per_item.dir/main.cpp.o -o Find_the_profit_per_item 
