@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Even_Palindrome_number.dir/main.cpp.o -o Even_Palindrome_number 

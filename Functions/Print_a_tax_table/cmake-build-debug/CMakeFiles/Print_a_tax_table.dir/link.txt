@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Print_a_tax_table.dir/main.cpp.o -o Print_a_tax_table 

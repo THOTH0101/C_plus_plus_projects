@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Reverse_armstrong_number.dir/main.cpp.o -o Reverse_armstrong_number 

@@ -1,4 +1,4 @@
-/opt/clion-2021.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/THOTH0101/CLionProjects/Armstrong_integer
+/opt/clion-2021.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/THOTH0101/c_plus_plus_projects/Functions/Armstrong_integer
 -- The C compiler identification is GNU 10.2.1
 -- The CXX compiler identification is GNU 10.2.1
 -- Detecting C compiler ABI info
@@ -13,4 +13,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/THOTH0101/CLionProjects/Armstrong_integer/cmake-build-debug
+-- Build files have been written to: /home/THOTH0101/c_plus_plus_projects/Functions/Armstrong_integer/cmake-build-debug
