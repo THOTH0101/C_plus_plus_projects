@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Additive_prime.dir/main.cpp.o -o Additive_prime 

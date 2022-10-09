@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/THOTH0101/CLionProjects/Game_win_to_lose_ratio_at_craps/main.cpp
+iostream
+-
+cstdlib
+-
+ctime
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Day_and_Remaining_Hours.dir/main.cpp.o -o Day_and_Remaining_Hours 
