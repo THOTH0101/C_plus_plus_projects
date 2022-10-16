@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Current_date_and_time.dir/main.cpp.o -o Current_date_and_time 

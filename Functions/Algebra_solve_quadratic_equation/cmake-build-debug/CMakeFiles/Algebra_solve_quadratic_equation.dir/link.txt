@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Algebra_solve_quadratic_equation.dir/main.cpp.o -o Algebra_solve_quadratic_equation 
