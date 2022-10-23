@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Binary_to_Octal.dir/main.cpp.o -o Binary_to_Octal 

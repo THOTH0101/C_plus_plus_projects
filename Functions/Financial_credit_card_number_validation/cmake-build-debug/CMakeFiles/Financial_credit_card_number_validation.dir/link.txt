@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Financial_credit_card_number_validation.dir/main.cpp.o -o Financial_credit_card_number_validation 
