@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Swap_case.dir/main.cpp.o -o Swap_case 

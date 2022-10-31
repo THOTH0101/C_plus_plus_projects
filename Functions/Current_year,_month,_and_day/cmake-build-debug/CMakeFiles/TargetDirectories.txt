@@ -1,0 +1,3 @@
+/home/THOTH0101/CLionProjects/Current_year,_month,_and_day/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/THOTH0101/CLionProjects/Current_year,_month,_and_day/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/THOTH0101/CLionProjects/Current_year,_month,_and_day/cmake-build-debug/CMakeFiles/Current_year__month__and_day.dir

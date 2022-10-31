@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Current_year__month__and_day.dir/main.cpp.o -o Current_year__month__and_day 
