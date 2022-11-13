@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Assign_score.dir/main.cpp.o -o Assign_score 
