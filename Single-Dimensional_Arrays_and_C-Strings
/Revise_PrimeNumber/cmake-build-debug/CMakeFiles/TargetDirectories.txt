@@ -1,3 +1,0 @@
-/home/THOTH/CLionProjects/Revise_PrimeNumber/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/THOTH/CLionProjects/Revise_PrimeNumber/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/THOTH/CLionProjects/Revise_PrimeNumber/cmake-build-debug/CMakeFiles/Revise_PrimeNumber.dir

@@ -1,3 +1,0 @@
-/home/THOTH/CLionProjects/Print_distinct_numbers/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/THOTH/CLionProjects/Print_distinct_numbers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/THOTH/CLionProjects/Print_distinct_numbers/cmake-build-debug/CMakeFiles/Print_distinct_numbers.dir

@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/Revise_PrimeNumber.dir/main.cpp.o -o Revise_PrimeNumber 

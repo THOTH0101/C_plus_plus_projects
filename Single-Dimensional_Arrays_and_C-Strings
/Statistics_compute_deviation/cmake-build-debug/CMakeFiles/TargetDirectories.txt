@@ -1,3 +1,0 @@
-/home/THOTH/CLionProjects/Statistics_compute_deviation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/THOTH/CLionProjects/Statistics_compute_deviation/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/THOTH/CLionProjects/Statistics_compute_deviation/cmake-build-debug/CMakeFiles/Statistics_compute_deviation.dir
