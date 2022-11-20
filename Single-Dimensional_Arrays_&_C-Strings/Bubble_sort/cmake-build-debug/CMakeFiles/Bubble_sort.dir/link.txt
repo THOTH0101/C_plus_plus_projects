@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Bubble_sort.dir/main.cpp.o -o Bubble_sort 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Game_locker_puzzle.dir/main.cpp.o -o Game_locker_puzzle 

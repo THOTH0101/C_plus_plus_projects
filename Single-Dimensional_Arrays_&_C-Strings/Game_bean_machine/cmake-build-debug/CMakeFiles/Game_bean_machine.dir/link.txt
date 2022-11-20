@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Game_bean_machine.dir/main.cpp.o -o Game_bean_machine 
