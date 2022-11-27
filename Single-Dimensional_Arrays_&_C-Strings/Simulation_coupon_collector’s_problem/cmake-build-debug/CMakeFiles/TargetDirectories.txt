@@ -1,0 +1,3 @@
+/home/THOTH/CLionProjects/Simulation_coupon_collector’s_problem/cmake-build-debug/CMakeFiles/Simulation_coupon_collectors_problem.dir
+/home/THOTH/CLionProjects/Simulation_coupon_collector’s_problem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/THOTH/CLionProjects/Simulation_coupon_collector’s_problem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
