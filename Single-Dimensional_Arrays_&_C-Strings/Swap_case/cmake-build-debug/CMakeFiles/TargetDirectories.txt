@@ -1,0 +1,3 @@
+/home/THOTH/CLionProjects/Swap_case/cmake-build-debug/CMakeFiles/Swap_case.dir
+/home/THOTH/CLionProjects/Swap_case/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/THOTH/CLionProjects/Swap_case/cmake-build-debug/CMakeFiles/rebuild_cache.dir

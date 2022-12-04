@@ -1,0 +1,3 @@
+/home/THOTH/CLionProjects/Partition_of_a_list/cmake-build-debug/CMakeFiles/Partition_of_a_list.dir
+/home/THOTH/CLionProjects/Partition_of_a_list/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/THOTH/CLionProjects/Partition_of_a_list/cmake-build-debug/CMakeFiles/rebuild_cache.dir

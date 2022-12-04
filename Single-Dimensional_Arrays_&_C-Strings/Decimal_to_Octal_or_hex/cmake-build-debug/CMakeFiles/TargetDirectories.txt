@@ -1,0 +1,3 @@
+/home/THOTH/CLionProjects/Decimal_to_Octal_or_hex/cmake-build-debug/CMakeFiles/Decimal_to_Octal_or_hex.dir
+/home/THOTH/CLionProjects/Decimal_to_Octal_or_hex/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/THOTH/CLionProjects/Decimal_to_Octal_or_hex/cmake-build-debug/CMakeFiles/rebuild_cache.dir

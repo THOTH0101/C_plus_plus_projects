@@ -1,0 +1,3 @@
+/home/THOTH/CLionProjects/Area_of_a_polygon/cmake-build-debug/CMakeFiles/Area_of_a_polygon.dir
+/home/THOTH/CLionProjects/Area_of_a_polygon/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/THOTH/CLionProjects/Area_of_a_polygon/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/THOTH/CLionProjects/Sorted?/cmake-build-debug/CMakeFiles/Sorted_.dir
+/home/THOTH/CLionProjects/Sorted?/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/THOTH/CLionProjects/Sorted?/cmake-build-debug/CMakeFiles/rebuild_cache.dir

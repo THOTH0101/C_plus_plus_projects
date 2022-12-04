@@ -1,0 +1,3 @@
+/home/THOTH/CLionProjects/Identical_arrays/cmake-build-debug/CMakeFiles/Identical_arrays.dir
+/home/THOTH/CLionProjects/Identical_arrays/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/THOTH/CLionProjects/Identical_arrays/cmake-build-debug/CMakeFiles/rebuild_cache.dir

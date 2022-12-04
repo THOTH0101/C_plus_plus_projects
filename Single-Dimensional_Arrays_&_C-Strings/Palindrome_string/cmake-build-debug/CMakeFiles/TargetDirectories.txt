@@ -1,0 +1,3 @@
+/home/THOTH/CLionProjects/Palindrome_string/cmake-build-debug/CMakeFiles/Palindrome_string.dir
+/home/THOTH/CLionProjects/Palindrome_string/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/THOTH/CLionProjects/Palindrome_string/cmake-build-debug/CMakeFiles/rebuild_cache.dir
