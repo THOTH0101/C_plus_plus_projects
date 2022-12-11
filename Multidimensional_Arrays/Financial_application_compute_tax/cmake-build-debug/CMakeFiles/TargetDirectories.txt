@@ -1,0 +1,3 @@
+/home/THOTH/CLionProjects/Financial_application_compute_tax/cmake-build-debug/CMakeFiles/Financial_application_compute_tax.dir
+/home/THOTH/CLionProjects/Financial_application_compute_tax/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/THOTH/CLionProjects/Financial_application_compute_tax/cmake-build-debug/CMakeFiles/rebuild_cache.dir

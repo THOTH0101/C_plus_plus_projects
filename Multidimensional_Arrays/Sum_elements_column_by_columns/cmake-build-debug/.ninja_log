@@ -1,0 +1,5 @@
+# ninja log v5
+0	1254	1670431441077988251	CMakeFiles/Sum_elements_column_by_columns.dir/main.cpp.o	d5c7e1062d3c71a6
+1259	1510	1670431441333995661	Sum_elements_column_by_columns	a37392bb06887951
+2	935	1670431508055927252	CMakeFiles/Sum_elements_column_by_columns.dir/main.cpp.o	d5c7e1062d3c71a6
+936	1201	1670431508323935011	Sum_elements_column_by_columns	a37392bb06887951

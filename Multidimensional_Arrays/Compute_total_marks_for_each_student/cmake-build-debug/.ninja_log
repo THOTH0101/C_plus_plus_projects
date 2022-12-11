@@ -1,0 +1,11 @@
+# ninja log v5
+0	1120	1670433941650380028	CMakeFiles/Compute_total_marks_for_each_student.dir/main.cpp.o	3ff589b5bbd119ca
+1123	1376	1670433941906387439	Compute_total_marks_for_each_student	c6c2abaf308f0a8f
+2	1876	1670498866815643168	CMakeFiles/Compute_total_marks_for_each_student.dir/main.cpp.o	3ff589b5bbd119ca
+1877	2465	1670498867407660306	Compute_total_marks_for_each_student	c6c2abaf308f0a8f
+2	916	1670498969866626510	CMakeFiles/Compute_total_marks_for_each_student.dir/main.cpp.o	3ff589b5bbd119ca
+917	1182	1670498970130634152	Compute_total_marks_for_each_student	c6c2abaf308f0a8f
+3	888	1670499096514292979	CMakeFiles/Compute_total_marks_for_each_student.dir/main.cpp.o	3ff589b5bbd119ca
+889	1142	1670499096770300391	Compute_total_marks_for_each_student	c6c2abaf308f0a8f
+4	923	1670499742621363494	CMakeFiles/Compute_total_marks_for_each_student.dir/main.cpp.o	3ff589b5bbd119ca
+923	1174	1670499742873370790	Compute_total_marks_for_each_student	c6c2abaf308f0a8f

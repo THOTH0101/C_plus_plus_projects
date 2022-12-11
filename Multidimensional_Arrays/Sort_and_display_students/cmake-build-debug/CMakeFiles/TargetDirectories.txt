@@ -1,0 +1,3 @@
+/home/THOTH/CLionProjects/Sort_and_display_students/cmake-build-debug/CMakeFiles/Sort_and_display_students.dir
+/home/THOTH/CLionProjects/Sort_and_display_students/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/THOTH/CLionProjects/Sort_and_display_students/cmake-build-debug/CMakeFiles/rebuild_cache.dir

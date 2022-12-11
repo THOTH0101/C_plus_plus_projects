@@ -1,0 +1,18 @@
+# ninja log v5
+1	134	1670593748086063956	build.ninja	e76a45d5fd8b3723
+1	1331	1670519422195703429	CMakeFiles/Financial_application_compute_tax.dir/main.cpp.o	5245411cd7051a14
+1331	2076	1670519422983726243	Financial_application_compute_tax	cb05dccbbdc81f3b
+2	1894	1670595276735246907	CMakeFiles/Financial_application_compute_tax.dir/main.cpp.o	5245411cd7051a14
+1894	2539	1670595277379264962	Financial_application_compute_tax	cb05dccbbdc81f3b
+2	1762	1670595299107874210	CMakeFiles/Financial_application_compute_tax.dir/main.cpp.o	5245411cd7051a14
+1763	2023	1670595299471884417	Financial_application_compute_tax	cb05dccbbdc81f3b
+2	947	1670595426959462461	CMakeFiles/Financial_application_compute_tax.dir/main.cpp.o	5245411cd7051a14
+948	1196	1670595427203469314	Financial_application_compute_tax	cb05dccbbdc81f3b
+2	1019	1670598051389498782	CMakeFiles/Financial_application_compute_tax.dir/main.cpp.o	5245411cd7051a14
+1019	1264	1670598051633505673	Financial_application_compute_tax	cb05dccbbdc81f3b
+1	930	1670600350643208734	CMakeFiles/Financial_application_compute_tax.dir/main.cpp.o	5245411cd7051a14
+931	1190	1670600350903216077	Financial_application_compute_tax	cb05dccbbdc81f3b
+2	1001	1670600592522039396	CMakeFiles/Financial_application_compute_tax.dir/main.cpp.o	5245411cd7051a14
+1001	1259	1670600592778046625	Financial_application_compute_tax	cb05dccbbdc81f3b
+2	922	1670600862293657767	CMakeFiles/Financial_application_compute_tax.dir/main.cpp.o	5245411cd7051a14
+922	1167	1670600862541664771	Financial_application_compute_tax	cb05dccbbdc81f3b

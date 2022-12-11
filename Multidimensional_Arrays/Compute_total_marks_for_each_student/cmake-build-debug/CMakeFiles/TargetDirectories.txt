@@ -1,0 +1,3 @@
+/home/THOTH/CLionProjects/Compute_total_marks_for_each_student/cmake-build-debug/CMakeFiles/Compute_total_marks_for_each_student.dir
+/home/THOTH/CLionProjects/Compute_total_marks_for_each_student/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/THOTH/CLionProjects/Compute_total_marks_for_each_student/cmake-build-debug/CMakeFiles/rebuild_cache.dir
