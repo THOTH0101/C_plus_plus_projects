@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Sort_two_dimensional_array_in_reverse_order",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Sort_two_dimensional_array_in_reverse_order::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Sort_two_dimensional_array_in_reverse_order-Debug-fb275b04bd62269f7236.json",
+					"name" : "Sort_two_dimensional_array_in_reverse_order",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/THOTH/CLionProjects/Sort_two-dimensional_array_in_reverse_order/cmake-build-debug",
+		"source" : "/home/THOTH/CLionProjects/Sort_two-dimensional_array_in_reverse_order"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

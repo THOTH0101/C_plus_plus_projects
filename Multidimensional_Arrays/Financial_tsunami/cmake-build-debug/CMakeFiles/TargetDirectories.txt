@@ -1,0 +1,3 @@
+/home/THOTH/CLionProjects/Financial_tsunami/cmake-build-debug/CMakeFiles/Financial_tsunami.dir
+/home/THOTH/CLionProjects/Financial_tsunami/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/THOTH/CLionProjects/Financial_tsunami/cmake-build-debug/CMakeFiles/rebuild_cache.dir

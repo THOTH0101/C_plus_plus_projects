@@ -1,0 +1,3 @@
+/home/THOTH/CLionProjects/Game_nine_heads_and_tails/cmake-build-debug/CMakeFiles/Game_nine_heads_and_tails.dir
+/home/THOTH/CLionProjects/Game_nine_heads_and_tails/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/THOTH/CLionProjects/Game_nine_heads_and_tails/cmake-build-debug/CMakeFiles/rebuild_cache.dir

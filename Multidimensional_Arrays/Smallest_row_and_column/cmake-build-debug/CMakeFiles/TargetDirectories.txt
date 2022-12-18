@@ -1,0 +1,3 @@
+/home/THOTH/CLionProjects/Smallest_row_and_column/cmake-build-debug/CMakeFiles/Smallest_row_and_column.dir
+/home/THOTH/CLionProjects/Smallest_row_and_column/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/THOTH/CLionProjects/Smallest_row_and_column/cmake-build-debug/CMakeFiles/rebuild_cache.dir

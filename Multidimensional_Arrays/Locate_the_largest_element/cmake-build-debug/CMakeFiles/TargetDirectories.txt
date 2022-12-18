@@ -1,0 +1,3 @@
+/home/THOTH/CLionProjects/Locate_the_largest_element/cmake-build-debug/CMakeFiles/Locate_the_largest_element.dir
+/home/THOTH/CLionProjects/Locate_the_largest_element/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/THOTH/CLionProjects/Locate_the_largest_element/cmake-build-debug/CMakeFiles/rebuild_cache.dir

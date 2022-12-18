@@ -1,0 +1,3 @@
+/home/THOTH/CLionProjects/Shuffle_columns/cmake-build-debug/CMakeFiles/Shuffle_columns.dir
+/home/THOTH/CLionProjects/Shuffle_columns/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/THOTH/CLionProjects/Shuffle_columns/cmake-build-debug/CMakeFiles/rebuild_cache.dir
