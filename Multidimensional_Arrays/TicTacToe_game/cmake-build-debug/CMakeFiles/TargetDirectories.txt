@@ -1,0 +1,3 @@
+/home/THOTH/CLionProjects/TicTacToe_game/cmake-build-debug/CMakeFiles/TicTacToe_game.dir
+/home/THOTH/CLionProjects/TicTacToe_game/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/THOTH/CLionProjects/TicTacToe_game/cmake-build-debug/CMakeFiles/rebuild_cache.dir

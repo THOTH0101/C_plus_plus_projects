@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.23)
+project(Pattern_recognition_consecutive_four_equal_numbers)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Pattern_recognition_consecutive_four_equal_numbers main.cpp)
