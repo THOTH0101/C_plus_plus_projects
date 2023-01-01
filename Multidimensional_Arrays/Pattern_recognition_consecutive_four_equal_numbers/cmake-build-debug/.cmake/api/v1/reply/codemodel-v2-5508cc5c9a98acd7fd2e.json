@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Pattern_recognition_consecutive_four_equal_numbers",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Pattern_recognition_consecutive_four_equal_numbers::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Pattern_recognition_consecutive_four_equal_numbers-Debug-d9c264c86ee2210d3450.json",
+					"name" : "Pattern_recognition_consecutive_four_equal_numbers",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/THOTH/c_plus_plus_projects/Multidimensional_Arrays/Pattern_recognition_consecutive_four_equal_numbers/cmake-build-debug",
+		"source" : "/home/THOTH/c_plus_plus_projects/Multidimensional_Arrays/Pattern_recognition_consecutive_four_equal_numbers"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

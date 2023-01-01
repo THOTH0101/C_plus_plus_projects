@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/THOTH/CLionProjects/Pattern_recognition_consecutive_four_equal_numbers/cmake-build-debug"
+			"value" : "/home/THOTH/CLionProjects/Game_connect_four/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -591,7 +591,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/THOTH/CLionProjects/Pattern_recognition_consecutive_four_equal_numbers"
+			"value" : "/home/THOTH/CLionProjects/Game_connect_four"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -831,7 +831,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "Pattern_recognition_consecutive_four_equal_numbers"
+			"value" : "Game_connect_four"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1114,7 +1114,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "Pattern_recognition_consecutive_four_equal_numbers_BINARY_DIR",
+			"name" : "Game_connect_four_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1123,10 +1123,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/THOTH/CLionProjects/Pattern_recognition_consecutive_four_equal_numbers/cmake-build-debug"
+			"value" : "/home/THOTH/CLionProjects/Game_connect_four/cmake-build-debug"
 		},
 		{
-			"name" : "Pattern_recognition_consecutive_four_equal_numbers_IS_TOP_LEVEL",
+			"name" : "Game_connect_four_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1138,7 +1138,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "Pattern_recognition_consecutive_four_equal_numbers_SOURCE_DIR",
+			"name" : "Game_connect_four_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1147,7 +1147,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/THOTH/CLionProjects/Pattern_recognition_consecutive_four_equal_numbers"
+			"value" : "/home/THOTH/CLionProjects/Game_connect_four"
 		}
 	],
 	"kind" : "cache",

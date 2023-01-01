@@ -728,8 +728,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/home/THOTH/CLionProjects/Pattern_recognition_consecutive_four_equal_numbers/cmake-build-debug",
-		"source" : "/home/THOTH/CLionProjects/Pattern_recognition_consecutive_four_equal_numbers"
+		"build" : "/home/THOTH/c_plus_plus_projects/Multidimensional_Arrays/Pattern_recognition_consecutive_four_equal_numbers/cmake-build-debug",
+		"source" : "/home/THOTH/c_plus_plus_projects/Multidimensional_Arrays/Pattern_recognition_consecutive_four_equal_numbers"
 	},
 	"version" : 
 	{
