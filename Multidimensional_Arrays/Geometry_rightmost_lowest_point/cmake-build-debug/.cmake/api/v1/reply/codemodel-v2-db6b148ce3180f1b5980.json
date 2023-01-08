@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Geometry_rightmost_lowest_point",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Geometry_rightmost_lowest_point::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Geometry_rightmost_lowest_point-Debug-69c48764d9d603f512fd.json",
+					"name" : "Geometry_rightmost_lowest_point",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/THOTH/CLionProjects/Geometry_rightmost_lowest_point/cmake-build-debug",
+		"source" : "/home/THOTH/CLionProjects/Geometry_rightmost_lowest_point"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,3 @@
+/home/THOTH/CLionProjects/Geometry_polygon_subareas/cmake-build-debug/CMakeFiles/Geometry_polygon_subareas.dir
+/home/THOTH/CLionProjects/Geometry_polygon_subareas/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/THOTH/CLionProjects/Geometry_polygon_subareas/cmake-build-debug/CMakeFiles/rebuild_cache.dir

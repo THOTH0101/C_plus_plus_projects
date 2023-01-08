@@ -1,0 +1,3 @@
+/home/THOTH/CLionProjects/Game_find_the_flipped_cell/cmake-build-debug/CMakeFiles/Game_find_the_flipped_cell.dir
+/home/THOTH/CLionProjects/Game_find_the_flipped_cell/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/THOTH/CLionProjects/Game_find_the_flipped_cell/cmake-build-debug/CMakeFiles/rebuild_cache.dir

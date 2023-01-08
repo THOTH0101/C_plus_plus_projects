@@ -1,0 +1,3 @@
+/home/THOTH/CLionProjects/Parity_checking/cmake-build-debug/CMakeFiles/Parity_checking.dir
+/home/THOTH/CLionProjects/Parity_checking/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/THOTH/CLionProjects/Parity_checking/cmake-build-debug/CMakeFiles/rebuild_cache.dir
