@@ -1,0 +1,6 @@
+# ninja log v5
+2	794	1673960899230129303	CMakeFiles/The_MyPoint_class.dir/MyPoint.cpp.o	fa440f9018f728e5
+1	1380	1673960899814142528	CMakeFiles/The_MyPoint_class.dir/main.cpp.o	e1dc8fe2dedf17d8
+1382	1670	1673960900106149141	The_MyPoint_class	6a2d44dd3b0bd7f1
+2	927	1673961192540771495	CMakeFiles/The_MyPoint_class.dir/main.cpp.o	e1dc8fe2dedf17d8
+928	1204	1673961192816777745	The_MyPoint_class	6a2d44dd3b0bd7f1

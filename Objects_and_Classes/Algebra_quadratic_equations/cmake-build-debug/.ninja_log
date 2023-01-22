@@ -1,0 +1,12 @@
+# ninja log v5
+1	574	1674062039594325908	CMakeFiles/Algebra_quadratic_equations.dir/QuadraticEquation.cpp.o	bf97b78a5e594c82
+0	1193	1674062040210339858	CMakeFiles/Algebra_quadratic_equations.dir/main.cpp.o	7f271779c82e9b5d
+1196	1531	1674062040550347558	Algebra_quadratic_equations	7a25b96a6787d339
+2	246	1674062540505669247	CMakeFiles/Algebra_quadratic_equations.dir/QuadraticEquation.cpp.o	bf97b78a5e594c82
+246	523	1674062540781675497	Algebra_quadratic_equations	7a25b96a6787d339
+2	883	1674062650052149943	CMakeFiles/Algebra_quadratic_equations.dir/main.cpp.o	7f271779c82e9b5d
+883	1165	1674062650336156374	Algebra_quadratic_equations	7a25b96a6787d339
+2	969	1674062688065010758	CMakeFiles/Algebra_quadratic_equations.dir/main.cpp.o	7f271779c82e9b5d
+969	1281	1674062688377017824	Algebra_quadratic_equations	7a25b96a6787d339
+3	896	1674062745334307651	CMakeFiles/Algebra_quadratic_equations.dir/main.cpp.o	7f271779c82e9b5d
+896	1161	1674062745598313629	Algebra_quadratic_equations	7a25b96a6787d339

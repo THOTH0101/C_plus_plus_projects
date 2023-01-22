@@ -1,0 +1,3 @@
+/home/THOTH/CLionProjects/Algebra_quadratic_equations/cmake-build-debug/CMakeFiles/Algebra_quadratic_equations.dir
+/home/THOTH/CLionProjects/Algebra_quadratic_equations/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/THOTH/CLionProjects/Algebra_quadratic_equations/cmake-build-debug/CMakeFiles/rebuild_cache.dir
