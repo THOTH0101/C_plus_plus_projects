@@ -1,4 +1,4 @@
-/opt/clion-2021.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/THOTH0101/CLionProjects/Current_date_and_time
+/opt/clion-2022.2.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/opt/clion-2022.2.4/bin/ninja/linux/ninja -G Ninja -S /home/THOTH0101/c_plus_plus_projects/Functions/Current_date_and_time -B /home/THOTH0101/c_plus_plus_projects/Functions/Current_date_and_time/cmake-build-debug
 -- The C compiler identification is GNU 10.2.1
 -- The CXX compiler identification is GNU 10.2.1
 -- Detecting C compiler ABI info
@@ -13,4 +13,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/THOTH0101/CLionProjects/Current_date_and_time/cmake-build-debug
+-- Build files have been written to: /home/THOTH0101/c_plus_plus_projects/Functions/Current_date_and_time/cmake-build-debug
