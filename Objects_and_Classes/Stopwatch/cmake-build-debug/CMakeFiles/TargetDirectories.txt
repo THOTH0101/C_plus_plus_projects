@@ -1,3 +1,3 @@
-/home/THOTH/CLionProjects/Stopwatch/cmake-build-debug/CMakeFiles/Stopwatch.dir
-/home/THOTH/CLionProjects/Stopwatch/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/THOTH/CLionProjects/Stopwatch/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/THOTH0101/c_plus_plus_projects/Objects_and_Classes/Stopwatch/cmake-build-debug/CMakeFiles/Stopwatch.dir
+/home/THOTH0101/c_plus_plus_projects/Objects_and_Classes/Stopwatch/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/THOTH0101/c_plus_plus_projects/Objects_and_Classes/Stopwatch/cmake-build-debug/CMakeFiles/rebuild_cache.dir

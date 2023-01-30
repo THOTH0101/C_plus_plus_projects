@@ -1,0 +1,7 @@
+# ninja log v5
+1	922	1674844074288269326	CMakeFiles/The_Date_class.dir/main.cpp.o	c504cb480a45f0bd
+6	160	1674843952193304831	CMakeFiles/The_Date_class.dir/Date.cpp.o	35cb7f26387ca3b0
+923	1180	1674844074544275541	The_Date_class	a91a52e64a13ae1a
+4	207	1675036219813884362	CMakeFiles/The_Date_class.dir/Date.cpp.o	15e66dc87f212a4b
+3	1043	1675036220647896774	CMakeFiles/The_Date_class.dir/main.cpp.o	e732483810dc3cd2
+1044	1465	1675036220924900897	The_Date_class	a91a52e64a13ae1a

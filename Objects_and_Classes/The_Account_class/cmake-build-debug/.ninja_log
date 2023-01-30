@@ -1,18 +1,7 @@
 # ninja log v5
-5	1184	1673869746202654505	CMakeFiles/The_Account_class.dir/Account.cpp.o	4393d062f37c18cb
-0	1714	1673869746730666462	CMakeFiles/The_Account_class.dir/main.cpp.o	f587034e7de32886
-1717	2299	1673869747318679778	The_Account_class	4b0fcc7b7624860
-2	948	1673869957823446771	CMakeFiles/The_Account_class.dir/Account.cpp.o	4393d062f37c18cb
-1	1000	1673869957875447949	CMakeFiles/The_Account_class.dir/main.cpp.o	f587034e7de32886
-1000	1247	1673869958123453565	The_Account_class	4b0fcc7b7624860
-12	107	1673870107454835239	CMakeFiles/The_Account_class.dir/Account.cpp.o	4393d062f37c18cb
-9	908	1673870108250853264	CMakeFiles/The_Account_class.dir/main.cpp.o	f587034e7de32886
-909	1161	1673870108502858972	The_Account_class	4b0fcc7b7624860
-3	82	1673870208953133728	CMakeFiles/The_Account_class.dir/Account.cpp.o	4393d062f37c18cb
-2	877	1673870209745151664	CMakeFiles/The_Account_class.dir/main.cpp.o	f587034e7de32886
-878	1142	1673870210009157643	The_Account_class	4b0fcc7b7624860
-38	2630	1673914666047069403	CMakeFiles/The_Account_class.dir/Account.cpp.o	4393d062f37c18cb
 37	3215	1673914666635082719	CMakeFiles/The_Account_class.dir/main.cpp.o	f587034e7de32886
-3215	4400	1673914667815109440	The_Account_class	4b0fcc7b7624860
 2	108	1673914706767991548	CMakeFiles/The_Account_class.dir/Account.cpp.o	4393d062f37c18cb
 108	428	1673914707087998796	The_Account_class	4b0fcc7b7624860
+4	192	1675039678259355672	CMakeFiles/The_Account_class.dir/Account.cpp.o	8d15121f896736f4
+2	1633	1675039679736377654	CMakeFiles/The_Account_class.dir/main.cpp.o	d2a673b82c223104
+1633	1950	1675039680051382342	The_Account_class	4b0fcc7b7624860

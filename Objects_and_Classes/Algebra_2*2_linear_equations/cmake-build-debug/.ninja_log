@@ -1,0 +1,10 @@
+# ninja log v5
+1	160	1675039118274021533	CMakeFiles/Algebra_2_2_linear_equations.dir/LinearEquation.cpp.o	9e2f9e16b1b34e9f
+0	1170	1675039119284036565	CMakeFiles/Algebra_2_2_linear_equations.dir/main.cpp.o	121d234268cb2622
+1172	1432	1675039119543040420	Algebra_2_2_linear_equations	b0f44964572dc8a6
+4	86	1675039202684277784	CMakeFiles/Algebra_2_2_linear_equations.dir/LinearEquation.cpp.o	9e2f9e16b1b34e9f
+2	967	1675039203564290881	CMakeFiles/Algebra_2_2_linear_equations.dir/main.cpp.o	121d234268cb2622
+968	1247	1675039203842295018	Algebra_2_2_linear_equations	b0f44964572dc8a6
+3	93	1675039263248179145	CMakeFiles/Algebra_2_2_linear_equations.dir/LinearEquation.cpp.o	9e2f9e16b1b34e9f
+2	877	1675039264031190799	CMakeFiles/Algebra_2_2_linear_equations.dir/main.cpp.o	121d234268cb2622
+877	1159	1675039264311194966	Algebra_2_2_linear_equations	b0f44964572dc8a6

@@ -1,4 +1,4 @@
-# Install script for directory: /home/THOTH/CLionProjects/The_Time_class
+# Install script for directory: /home/THOTH0101/c_plus_plus_projects/Objects_and_Classes/The_Time_class
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/THOTH/CLionProjects/The_Time_class/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/THOTH0101/c_plus_plus_projects/Objects_and_Classes/The_Time_class/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
