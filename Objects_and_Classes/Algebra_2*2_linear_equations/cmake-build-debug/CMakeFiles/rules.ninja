@@ -42,7 +42,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /opt/clion-2022.2.4/bin/cmake/linux/bin/cmake --regenerate-during-build -S"/home/THOTH0101/CLionProjects/Algebra_2*2_linear_equations" -B"/home/THOTH0101/CLionProjects/Algebra_2*2_linear_equations/cmake-build-debug"
+  command = /opt/clion-2022.2.4/bin/cmake/linux/bin/cmake --regenerate-during-build -S"/home/THOTH0101/c_plus_plus_projects/Objects_and_Classes/Algebra_2*2_linear_equations" -B"/home/THOTH0101/c_plus_plus_projects/Objects_and_Classes/Algebra_2*2_linear_equations/cmake-build-debug"
   description = Re-running CMake...
   generator = 1
 

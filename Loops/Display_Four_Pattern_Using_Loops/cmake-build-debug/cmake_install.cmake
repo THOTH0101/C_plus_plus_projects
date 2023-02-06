@@ -1,4 +1,4 @@
-# Install script for directory: /home/THOTH0101/CLionProjects/Display_Four_Pattern_Using_Loops
+# Install script for directory: /home/THOTH0101/c_plus_plus_projects/Loops/Display_Four_Pattern_Using_Loops
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/THOTH0101/CLionProjects/Display_Four_Pattern_Using_Loops/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/THOTH0101/c_plus_plus_projects/Loops/Display_Four_Pattern_Using_Loops/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

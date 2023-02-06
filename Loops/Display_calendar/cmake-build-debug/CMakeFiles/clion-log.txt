@@ -1,4 +1,4 @@
-/opt/clion-2021.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/THOTH0101/c_plus_plus_projects/Loops/Display_calendar
+/opt/clion-2022.2.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /home/THOTH0101/c_plus_plus_projects/Loops/Display_calendar -B /home/THOTH0101/c_plus_plus_projects/Loops/Display_calendar/cmake-build-debug
 -- The C compiler identification is GNU 10.2.1
 -- The CXX compiler identification is GNU 10.2.1
 -- Detecting C compiler ABI info

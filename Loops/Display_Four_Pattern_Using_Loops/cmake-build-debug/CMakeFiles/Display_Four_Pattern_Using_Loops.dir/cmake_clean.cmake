@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Display_Four_Pattern_Using_Loops.dir/Display_four_pattern_using_loops.cpp.o"
+  "CMakeFiles/Display_Four_Pattern_Using_Loops.dir/Display_four_pattern_using_loops.cpp.o.d"
   "Display_Four_Pattern_Using_Loops"
   "Display_Four_Pattern_Using_Loops.pdb"
 )
