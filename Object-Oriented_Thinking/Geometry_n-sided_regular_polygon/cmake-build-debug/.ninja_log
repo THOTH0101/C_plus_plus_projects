@@ -1,0 +1,10 @@
+# ninja log v5
+2	868	1677416118915927651	CMakeFiles/Geometry_n_sided_regular_polygon.dir/RegularPolygon.cpp.o	b64df8e6cca3d58a
+0	1635	1677416119679927624	CMakeFiles/Geometry_n_sided_regular_polygon.dir/main.cpp.o	33f154f0cd09e08d
+1638	2403	1677416119983927614	Geometry_n_sided_regular_polygon	52ef5d7ae0b19f6a
+1	909	1677416150551926547	CMakeFiles/Geometry_n_sided_regular_polygon.dir/main.cpp.o	33f154f0cd09e08d
+909	1210	1677416150851926536	Geometry_n_sided_regular_polygon	52ef5d7ae0b19f6a
+2	896	1677416207931924544	CMakeFiles/Geometry_n_sided_regular_polygon.dir/main.cpp.o	33f154f0cd09e08d
+897	1199	1677416208235924534	Geometry_n_sided_regular_polygon	52ef5d7ae0b19f6a
+2	890	1677416288987921715	CMakeFiles/Geometry_n_sided_regular_polygon.dir/main.cpp.o	33f154f0cd09e08d
+890	1199	1677416289291921705	Geometry_n_sided_regular_polygon	52ef5d7ae0b19f6a

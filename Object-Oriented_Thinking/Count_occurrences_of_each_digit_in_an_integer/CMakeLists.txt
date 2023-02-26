@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.23)
+project(Count_occurrences_of_each_digit_in_an_integer)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Count_occurrences_of_each_digit_in_an_integer main.cpp)

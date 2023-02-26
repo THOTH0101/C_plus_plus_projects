@@ -1,0 +1,13 @@
+# ninja log v5
+2	60	1677417989135862377	CMakeFiles/Display_the_non_prime_numbers.dir/StackOfIntegers.cpp.o	cb7e1816fe18a046
+1	891	1677417989967862348	CMakeFiles/Display_the_non_prime_numbers.dir/main.cpp.o	ff489273ffffb912
+896	1176	1677417990247862338	Display_the_non_prime_numbers	aa4960e63e763d9d
+2	899	1677418250551853253	CMakeFiles/Display_the_non_prime_numbers.dir/main.cpp.o	ff489273ffffb912
+900	1179	1677418250831853243	Display_the_non_prime_numbers	aa4960e63e763d9d
+2	889	1677418508563844248	CMakeFiles/Display_the_non_prime_numbers.dir/main.cpp.o	ff489273ffffb912
+889	1176	1677418508847844238	Display_the_non_prime_numbers	aa4960e63e763d9d
+2	898	1677418645563839466	CMakeFiles/Display_the_non_prime_numbers.dir/main.cpp.o	ff489273ffffb912
+898	1179	1677418645843839456	Display_the_non_prime_numbers	aa4960e63e763d9d
+4	86	1677420596379991750	CMakeFiles/Display_the_non_prime_numbers.dir/StackOfIntegers.cpp.o	cb7e1816fe18a046
+2	958	1677420597187991722	CMakeFiles/Display_the_non_prime_numbers.dir/main.cpp.o	ff489273ffffb912
+958	1239	1677420597527991710	Display_the_non_prime_numbers	aa4960e63e763d9d

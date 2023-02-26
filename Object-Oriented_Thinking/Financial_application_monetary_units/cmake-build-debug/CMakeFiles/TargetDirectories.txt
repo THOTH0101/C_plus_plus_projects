@@ -1,0 +1,3 @@
+/home/thoth/CLionProjects/Financial_application_monetary_units/cmake-build-debug/CMakeFiles/Financial_application_monetary_units.dir
+/home/thoth/CLionProjects/Financial_application_monetary_units/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/thoth/CLionProjects/Financial_application_monetary_units/cmake-build-debug/CMakeFiles/rebuild_cache.dir
