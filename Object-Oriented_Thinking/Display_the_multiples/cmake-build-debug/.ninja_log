@@ -1,0 +1,15 @@
+# ninja log v5
+9	3077	1677957578074070219	CMakeFiles/Display_the_multiples.dir/main.cpp.o	8f4b9b606fe08cfe
+3	70	1677958067913721967	CMakeFiles/Display_the_multiples.dir/StackOfIntegers.cpp.o	d2ec0fd36bd1d1b4
+2	913	1677958068753700072	CMakeFiles/Display_the_multiples.dir/main.cpp.o	8f4b9b606fe08cfe
+913	1217	1677958069053692255	Display_the_multiples	439e091a45c54d63
+2	902	1677958142147833698	CMakeFiles/Display_the_multiples.dir/main.cpp.o	8f4b9b606fe08cfe
+902	1181	1677958142423826847	Display_the_multiples	439e091a45c54d63
+2	940	1677958176362993035	CMakeFiles/Display_the_multiples.dir/main.cpp.o	8f4b9b606fe08cfe
+941	1221	1677958176638986324	Display_the_multiples	439e091a45c54d63
+2	874	1677958239789478892	CMakeFiles/Display_the_multiples.dir/main.cpp.o	8f4b9b606fe08cfe
+874	1153	1677958240069472326	Display_the_multiples	439e091a45c54d63
+1	891	1677958375298409823	CMakeFiles/Display_the_multiples.dir/main.cpp.o	8f4b9b606fe08cfe
+892	1160	1677958375566403950	Display_the_multiples	439e091a45c54d63
+2	913	1678047836237475382	CMakeFiles/Display_the_multiples.dir/main.cpp.o	8f4b9b606fe08cfe
+913	1196	1678047836513493320	Display_the_multiples	439e091a45c54d63
