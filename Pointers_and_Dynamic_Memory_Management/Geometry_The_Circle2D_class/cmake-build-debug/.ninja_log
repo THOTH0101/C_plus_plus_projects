@@ -1,0 +1,6 @@
+# ninja log v5
+1	647	1679189742707740026	CMakeFiles/Geometry_The_Circle2D_class.dir/Circle2D.cpp.o	abf04d223e78fdce
+0	1092	1679189743151740010	CMakeFiles/Geometry_The_Circle2D_class.dir/main.cpp.o	c1621fc5c03ceaa8
+1095	1392	1679189743451740000	Geometry_The_Circle2D_class	502403f73bac308b
+3	909	1679190133151726398	CMakeFiles/Geometry_The_Circle2D_class.dir/main.cpp.o	c1621fc5c03ceaa8
+910	1207	1679190133447726388	Geometry_The_Circle2D_class	502403f73bac308b

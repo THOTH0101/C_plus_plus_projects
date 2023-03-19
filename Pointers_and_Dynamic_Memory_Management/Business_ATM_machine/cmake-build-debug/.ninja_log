@@ -1,0 +1,24 @@
+# ninja log v5
+3	937	1679162246839827084	CMakeFiles/Business_ATM_machine.dir/Account.cpp.o	60b76ec09da2411c
+1	992	1679162246895827082	CMakeFiles/Business_ATM_machine.dir/main.cpp.o	551ccd6b6490ea2c
+992	1256	1679162247155827073	Business_ATM_machine	314846cb91b9cd13
+2	893	1679163055963798844	CMakeFiles/Business_ATM_machine.dir/main.cpp.o	551ccd6b6490ea2c
+893	1162	1679163056231798834	Business_ATM_machine	314846cb91b9cd13
+2	941	1679163859351770804	CMakeFiles/Business_ATM_machine.dir/main.cpp.o	551ccd6b6490ea2c
+941	1210	1679163859619770794	Business_ATM_machine	314846cb91b9cd13
+3	899	1679164317939754798	CMakeFiles/Business_ATM_machine.dir/main.cpp.o	551ccd6b6490ea2c
+900	1161	1679164318199754789	Business_ATM_machine	314846cb91b9cd13
+2	901	1679165415619716487	CMakeFiles/Business_ATM_machine.dir/main.cpp.o	551ccd6b6490ea2c
+901	1162	1679165415879716478	Business_ATM_machine	314846cb91b9cd13
+3	897	1679167119151993503	CMakeFiles/Business_ATM_machine.dir/Account.cpp.o	60b76ec09da2411c
+897	1159	1679167119411993494	Business_ATM_machine	314846cb91b9cd13
+3	957	1679167351659985388	CMakeFiles/Business_ATM_machine.dir/Account.cpp.o	60b76ec09da2411c
+957	1217	1679167351919985379	Business_ATM_machine	314846cb91b9cd13
+2	941	1679167728115972249	CMakeFiles/Business_ATM_machine.dir/main.cpp.o	551ccd6b6490ea2c
+941	1206	1679167728379972240	Business_ATM_machine	314846cb91b9cd13
+2	922	1679167781551970384	CMakeFiles/Business_ATM_machine.dir/main.cpp.o	551ccd6b6490ea2c
+923	1178	1679167781803970375	Business_ATM_machine	314846cb91b9cd13
+2	4599	1679184757095914033	CMakeFiles/Business_ATM_machine.dir/Account.cpp.o	60b76ec09da2411c
+4600	6658	1679184759151913961	Business_ATM_machine	314846cb91b9cd13
+2	901	1679184966783906714	CMakeFiles/Business_ATM_machine.dir/Account.cpp.o	60b76ec09da2411c
+901	1160	1679184967043906705	Business_ATM_machine	314846cb91b9cd13

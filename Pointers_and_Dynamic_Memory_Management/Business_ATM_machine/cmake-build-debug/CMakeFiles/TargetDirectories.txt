@@ -1,0 +1,3 @@
+/home/thoth/CLionProjects/Business_ATM_machine/cmake-build-debug/CMakeFiles/Business_ATM_machine.dir
+/home/thoth/CLionProjects/Business_ATM_machine/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/thoth/CLionProjects/Business_ATM_machine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
