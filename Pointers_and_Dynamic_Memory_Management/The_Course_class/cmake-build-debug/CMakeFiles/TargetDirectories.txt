@@ -1,0 +1,3 @@
+/home/thoth/CLionProjects/The_Course_class/cmake-build-debug/CMakeFiles/The_Course_class.dir
+/home/thoth/CLionProjects/The_Course_class/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/thoth/CLionProjects/The_Course_class/cmake-build-debug/CMakeFiles/rebuild_cache.dir
