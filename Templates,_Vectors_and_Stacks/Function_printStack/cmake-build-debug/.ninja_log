@@ -1,0 +1,7 @@
+# ninja log v5
+0	1148	1681641062867865493	CMakeFiles/Function_printStack.dir/main.cpp.o	62385bd321e16f88
+1153	1414	1681641063131865483	Function_printStack	b0ab2c473610a7a9
+1	989	1681641221259859964	CMakeFiles/Function_printStack.dir/main.cpp.o	62385bd321e16f88
+989	1260	1681641221527859955	Function_printStack	b0ab2c473610a7a9
+2	932	1681641329863856174	CMakeFiles/Function_printStack.dir/main.cpp.o	62385bd321e16f88
+932	1190	1681641330119856165	Function_printStack	b0ab2c473610a7a9
