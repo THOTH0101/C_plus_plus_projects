@@ -1,0 +1,9 @@
+# ninja log v5
+0	11917	1682157940935875419	CMakeFiles/Evaluate_expression.dir/main.cpp.o	678851db1e4b3e6d
+11920	12391	1682157941407875403	Evaluate_expression	3991bf2271b5b060
+2	3191	1682158988127838870	CMakeFiles/Evaluate_expression.dir/main.cpp.o	678851db1e4b3e6d
+3191	4559	1682158989491838823	Evaluate_expression	3991bf2271b5b060
+2	1462	1682159111899834550	CMakeFiles/Evaluate_expression.dir/main.cpp.o	678851db1e4b3e6d
+1463	1750	1682159112187834540	Evaluate_expression	3991bf2271b5b060
+3	1403	1682159496127821140	CMakeFiles/Evaluate_expression.dir/main.cpp.o	678851db1e4b3e6d
+1404	1686	1682159496407821130	Evaluate_expression	3991bf2271b5b060

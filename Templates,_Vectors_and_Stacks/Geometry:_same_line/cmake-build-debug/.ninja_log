@@ -1,0 +1,11 @@
+# ninja log v5
+1	1245	1681976432303684930	CMakeFiles/Geometry__same_line.dir/main.cpp.o	91f75058ba94bd43
+1249	1510	1681976432563684921	Geometry__same_line	e1c4990f380b53dc
+3	1210	1681976473147683505	CMakeFiles/Geometry__same_line.dir/main.cpp.o	91f75058ba94bd43
+1211	1490	1681976473427683495	Geometry__same_line	e1c4990f380b53dc
+2	1242	1681976575815679921	CMakeFiles/Geometry__same_line.dir/main.cpp.o	91f75058ba94bd43
+1242	1508	1681976576079679912	Geometry__same_line	e1c4990f380b53dc
+3	1254	1681976663639676856	CMakeFiles/Geometry__same_line.dir/main.cpp.o	91f75058ba94bd43
+1254	1520	1681976663903676847	Geometry__same_line	e1c4990f380b53dc
+2	1224	1681976677995676355	CMakeFiles/Geometry__same_line.dir/main.cpp.o	91f75058ba94bd43
+1225	1489	1681976678259676346	Geometry__same_line	e1c4990f380b53dc
