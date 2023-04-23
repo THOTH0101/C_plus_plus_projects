@@ -1,3 +1,8 @@
+/* How does Google evaluate an expression? Write a program that evaluates a compound expression with
+ * multiple operators and parentheses (e.g., (5 * 2 ^ 3 + 2 * 3 % 2) * 4). For example, 2 ^ 3 is 8 and 3 % 2 is 1.
+ * The ^ operator has the highest precedence and the % operator has the same precedence as the * and / operators,
+ * assume that the operands are integers and operators are : +, –, *, /, %, and ^.
+ * */
 #include <iostream>
 #include <cmath>
 #include <vector>

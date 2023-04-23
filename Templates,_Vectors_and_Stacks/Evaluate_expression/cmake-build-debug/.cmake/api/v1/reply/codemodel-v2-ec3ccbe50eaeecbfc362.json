@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/thoth/CLionProjects/Evaluate_expression/cmake-build-debug",
-		"source" : "/home/thoth/CLionProjects/Evaluate_expression"
+		"build" : "/home/thoth/c_plus_plus_projects/Templates,_Vectors_and_Stacks/Evaluate_expression/cmake-build-debug",
+		"source" : "/home/thoth/c_plus_plus_projects/Templates,_Vectors_and_Stacks/Evaluate_expression"
 	},
 	"version" : 
 	{

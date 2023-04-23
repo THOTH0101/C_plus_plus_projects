@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/thoth/CLionProjects/Evaluate_expression/cmake-build-debug"
+			"value" : "/home/thoth/c_plus_plus_projects/Templates,_Vectors_and_Stacks/Evaluate_expression/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -591,7 +591,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/thoth/CLionProjects/Evaluate_expression"
+			"value" : "/home/thoth/c_plus_plus_projects/Templates,_Vectors_and_Stacks/Evaluate_expression"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1123,7 +1123,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/thoth/CLionProjects/Evaluate_expression/cmake-build-debug"
+			"value" : "/home/thoth/c_plus_plus_projects/Templates,_Vectors_and_Stacks/Evaluate_expression/cmake-build-debug"
 		},
 		{
 			"name" : "Evaluate_expression_IS_TOP_LEVEL",
@@ -1147,7 +1147,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/thoth/CLionProjects/Evaluate_expression"
+			"value" : "/home/thoth/c_plus_plus_projects/Templates,_Vectors_and_Stacks/Evaluate_expression"
 		}
 	],
 	"kind" : "cache",
