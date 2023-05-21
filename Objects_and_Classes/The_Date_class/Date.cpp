@@ -53,7 +53,7 @@ int Date::getDay()
     return day;
 }
 
-int Date::setDate(int elapseTime)
+void Date::setDate(int elapseTime)
 {
     time_t newTime = elapseTime;
 

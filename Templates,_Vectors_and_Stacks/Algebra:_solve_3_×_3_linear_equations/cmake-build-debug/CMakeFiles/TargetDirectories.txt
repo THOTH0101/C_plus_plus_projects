@@ -1,0 +1,3 @@
+/home/thoth/CLionProjects/Algebra:_solve_3_×_3_linear_equations/cmake-build-debug/CMakeFiles/Algebra__solve_3___3_linear_equations.dir
+/home/thoth/CLionProjects/Algebra:_solve_3_×_3_linear_equations/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/thoth/CLionProjects/Algebra:_solve_3_×_3_linear_equations/cmake-build-debug/CMakeFiles/rebuild_cache.dir

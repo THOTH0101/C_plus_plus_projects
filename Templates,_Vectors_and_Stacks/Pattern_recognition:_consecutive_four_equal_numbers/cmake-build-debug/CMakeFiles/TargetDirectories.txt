@@ -1,0 +1,3 @@
+/home/thoth/CLionProjects/Pattern_recognition:_consecutive_four_equal_numbers/cmake-build-debug/CMakeFiles/Pattern_recognition__consecutive_four_equal_numbers.dir
+/home/thoth/CLionProjects/Pattern_recognition:_consecutive_four_equal_numbers/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/thoth/CLionProjects/Pattern_recognition:_consecutive_four_equal_numbers/cmake-build-debug/CMakeFiles/rebuild_cache.dir

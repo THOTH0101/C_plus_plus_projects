@@ -1,0 +1,9 @@
+# ninja log v5
+3	1219	1684401916591523027	CMakeFiles/New_Account_class.dir/Transaction.cpp.o	4ff1d350d5eaac8d
+3	1217	1684406191367373829	CMakeFiles/New_Account_class.dir/main.cpp.o	74510e88c2115486
+1	810	1684689355337032618	build.ninja	c200374c2401e419
+2606	2697	1684399023183624012	CMakeFiles/New_Account_class.dir/Date.cpp.o	ebaaef850f542e8c
+4	947	1684400490583572797	CMakeFiles/New_Account_class.dir/Account.cpp.o	2509ed85b54f2197
+1218	1494	1684406191643373819	New_Account_class	341bc1c9c2eb444f
+3	2543	1684689494723224031	CMakeFiles/New_Account_class.dir/main.cpp.o	74510e88c2115486
+2544	4735	1684689496911316290	New_Account_class	341bc1c9c2eb444f

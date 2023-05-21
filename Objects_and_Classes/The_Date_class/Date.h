@@ -17,7 +17,7 @@ public:
     int getYear();
     int getMonth();
     int getDay();
-    int setDate(int elapseTime);
+    void setDate(int elapseTime);
 };
 
 #endif //THE_DATE_CLASS_DATE_H
