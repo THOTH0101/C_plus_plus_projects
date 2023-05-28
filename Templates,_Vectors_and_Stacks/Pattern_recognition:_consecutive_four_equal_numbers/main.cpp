@@ -13,7 +13,7 @@ using namespace std;
 
 //function prototype
 void printVector(const vector<vector<int>>& matrix);
-bool isConsecutiveFour(vector<vector<int>> matrix);
+bool isConsecutiveFour(const vector<vector<int>>& matrix);
 
 int main()
 {
@@ -55,7 +55,7 @@ void printVector(const vector<vector<int>>& matrix)
     cout << endl;
 }
 
-bool isConsecutiveFour(vector<vector<int>> matrix)
+bool isConsecutiveFour(const vector<vector<int>>& matrix)
 {
     int row, col;
 

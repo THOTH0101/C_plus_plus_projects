@@ -1,4 +1,4 @@
-# Install script for directory: /home/thoth/CLionProjects/Pattern_recognition:_consecutive_four_equal_numbers
+# Install script for directory: /home/thoth/c_plus_plus_projects/Templates,_Vectors_and_Stacks/Pattern_recognition:_consecutive_four_equal_numbers
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/thoth/CLionProjects/Pattern_recognition:_consecutive_four_equal_numbers/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/thoth/c_plus_plus_projects/Templates,_Vectors_and_Stacks/Pattern_recognition:_consecutive_four_equal_numbers/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

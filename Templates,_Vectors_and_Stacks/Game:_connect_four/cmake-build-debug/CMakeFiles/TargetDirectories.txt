@@ -1,0 +1,3 @@
+/home/thoth/CLionProjects/Game:_connect_four/cmake-build-debug/CMakeFiles/Game__connect_four.dir
+/home/thoth/CLionProjects/Game:_connect_four/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/thoth/CLionProjects/Game:_connect_four/cmake-build-debug/CMakeFiles/rebuild_cache.dir

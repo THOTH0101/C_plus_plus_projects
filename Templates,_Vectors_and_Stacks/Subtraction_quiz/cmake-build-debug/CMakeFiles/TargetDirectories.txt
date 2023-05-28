@@ -1,0 +1,3 @@
+/home/thoth/CLionProjects/Subtraction_quiz/cmake-build-debug/CMakeFiles/Subtraction_quiz.dir
+/home/thoth/CLionProjects/Subtraction_quiz/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/thoth/CLionProjects/Subtraction_quiz/cmake-build-debug/CMakeFiles/rebuild_cache.dir
