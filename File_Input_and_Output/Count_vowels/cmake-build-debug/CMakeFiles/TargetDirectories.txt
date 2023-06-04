@@ -1,0 +1,3 @@
+/home/thoth/CLionProjects/Count_vowels/cmake-build-debug/CMakeFiles/Count_vowels.dir
+/home/thoth/CLionProjects/Count_vowels/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/thoth/CLionProjects/Count_vowels/cmake-build-debug/CMakeFiles/rebuild_cache.dir

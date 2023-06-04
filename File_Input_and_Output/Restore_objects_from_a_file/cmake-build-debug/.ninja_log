@@ -1,0 +1,16 @@
+# ninja log v5
+1	2391	1685464380167960450	CMakeFiles/Restore_objects_from_a_file.dir/Loan.cpp.o	7c5a037f89458ee4
+0	2880	1685464380655960433	CMakeFiles/Restore_objects_from_a_file.dir/main.cpp.o	b23418f60c18a0e5
+2884	3563	1685464381339960409	Restore_objects_from_a_file	61c455a3ce1952cb
+3	1280	1685464741451947840	CMakeFiles/Restore_objects_from_a_file.dir/main.cpp.o	b23418f60c18a0e5
+1280	1578	1685464741747947830	Restore_objects_from_a_file	61c455a3ce1952cb
+3	1266	1685464812403945364	CMakeFiles/Restore_objects_from_a_file.dir/main.cpp.o	b23418f60c18a0e5
+1266	1556	1685464812691945354	Restore_objects_from_a_file	61c455a3ce1952cb
+2	1278	1685464933799941127	CMakeFiles/Restore_objects_from_a_file.dir/main.cpp.o	b23418f60c18a0e5
+1279	1569	1685464934091941117	Restore_objects_from_a_file	61c455a3ce1952cb
+2	1274	1685464977395939606	CMakeFiles/Restore_objects_from_a_file.dir/main.cpp.o	b23418f60c18a0e5
+1274	1565	1685464977683939595	Restore_objects_from_a_file	61c455a3ce1952cb
+3	1266	1685465023839937985	CMakeFiles/Restore_objects_from_a_file.dir/main.cpp.o	b23418f60c18a0e5
+1266	1554	1685465024127937974	Restore_objects_from_a_file	61c455a3ce1952cb
+3	1283	1685465052439936986	CMakeFiles/Restore_objects_from_a_file.dir/main.cpp.o	b23418f60c18a0e5
+1283	1569	1685465052723936976	Restore_objects_from_a_file	61c455a3ce1952cb

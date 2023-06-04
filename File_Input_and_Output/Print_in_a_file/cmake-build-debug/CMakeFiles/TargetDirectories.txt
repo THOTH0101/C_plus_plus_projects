@@ -1,0 +1,3 @@
+/home/thoth/CLionProjects/Print_in_a_file/cmake-build-debug/CMakeFiles/Print_in_a_file.dir
+/home/thoth/CLionProjects/Print_in_a_file/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/thoth/CLionProjects/Print_in_a_file/cmake-build-debug/CMakeFiles/rebuild_cache.dir

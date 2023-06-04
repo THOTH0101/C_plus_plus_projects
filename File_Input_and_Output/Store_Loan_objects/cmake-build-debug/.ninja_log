@@ -1,0 +1,10 @@
+# ninja log v5
+1	404	1685445823647887854	CMakeFiles/Store_Loan_objects.dir/Loan.cpp.o	7e706241f13c3ac3
+0	1073	1685445824315887831	CMakeFiles/Store_Loan_objects.dir/main.cpp.o	bc1fcabf52de5814
+1077	1357	1685445824595887821	Store_Loan_objects	cbe646ef1dff40bd
+3	994	1685445856935886693	CMakeFiles/Store_Loan_objects.dir/main.cpp.o	bc1fcabf52de5814
+994	1280	1685445857223886683	Store_Loan_objects	cbe646ef1dff40bd
+2	1016	1685446305883871024	CMakeFiles/Store_Loan_objects.dir/main.cpp.o	bc1fcabf52de5814
+1017	1301	1685446306167871014	Store_Loan_objects	cbe646ef1dff40bd
+3	1007	1685446612007860339	CMakeFiles/Store_Loan_objects.dir/main.cpp.o	bc1fcabf52de5814
+1008	1291	1685446612287860329	Store_Loan_objects	cbe646ef1dff40bd

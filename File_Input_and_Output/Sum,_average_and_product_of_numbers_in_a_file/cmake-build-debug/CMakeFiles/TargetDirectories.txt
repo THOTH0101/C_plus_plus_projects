@@ -1,0 +1,3 @@
+/home/thoth/CLionProjects/Sum,_average_and_product_of_numbers_in_a_file/cmake-build-debug/CMakeFiles/Sum__average_and_product_of_numbers_in_a_file.dir
+/home/thoth/CLionProjects/Sum,_average_and_product_of_numbers_in_a_file/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/thoth/CLionProjects/Sum,_average_and_product_of_numbers_in_a_file/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.23)
+project(Sum__average_and_product_of_numbers_in_a_file)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Sum__average_and_product_of_numbers_in_a_file main.cpp)
