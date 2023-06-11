@@ -1,0 +1,26 @@
+# ninja log v5
+0	958	1686476659473805340	CMakeFiles/Convert_decimals_to_fractions.dir/main.cpp.o	e6adc03eb06b6555
+2	2461	1686476660977881406	CMakeFiles/Convert_decimals_to_fractions.dir/Rational.cpp.o	4693e4396b85ebd9
+2462	2720	1686476661233894354	Convert_decimals_to_fractions	c7a1bd5485240a4f
+3	981	1686477005567308432	CMakeFiles/Convert_decimals_to_fractions.dir/main.cpp.o	e6adc03eb06b6555
+981	1438	1686477006023331496	Convert_decimals_to_fractions	c7a1bd5485240a4f
+2	1901	1686478175458475281	CMakeFiles/Convert_decimals_to_fractions.dir/main.cpp.o	e6adc03eb06b6555
+1901	2187	1686478175742489644	Convert_decimals_to_fractions	c7a1bd5485240a4f
+3	1063	1686478268859199039	CMakeFiles/Convert_decimals_to_fractions.dir/main.cpp.o	e6adc03eb06b6555
+1064	1350	1686478269147213605	Convert_decimals_to_fractions	c7a1bd5485240a4f
+2	1069	1686478317849676738	CMakeFiles/Convert_decimals_to_fractions.dir/main.cpp.o	e6adc03eb06b6555
+1070	1354	1686478318133691102	Convert_decimals_to_fractions	c7a1bd5485240a4f
+2	1064	1686478345879094319	CMakeFiles/Convert_decimals_to_fractions.dir/main.cpp.o	e6adc03eb06b6555
+1064	1343	1686478346159108481	Convert_decimals_to_fractions	c7a1bd5485240a4f
+2	1068	1686478451280425006	CMakeFiles/Convert_decimals_to_fractions.dir/main.cpp.o	e6adc03eb06b6555
+1068	1349	1686478451560439168	Convert_decimals_to_fractions	c7a1bd5485240a4f
+3	1069	1686478476073678934	CMakeFiles/Convert_decimals_to_fractions.dir/main.cpp.o	e6adc03eb06b6555
+1070	1351	1686478476353693096	Convert_decimals_to_fractions	c7a1bd5485240a4f
+3	1078	1686478546273229293	CMakeFiles/Convert_decimals_to_fractions.dir/main.cpp.o	e6adc03eb06b6555
+1078	1367	1686478546561243859	Convert_decimals_to_fractions	c7a1bd5485240a4f
+2	1061	1686479047554581702	CMakeFiles/Convert_decimals_to_fractions.dir/main.cpp.o	e6adc03eb06b6555
+1062	1342	1686479047830595662	Convert_decimals_to_fractions	c7a1bd5485240a4f
+3	1072	1686479072787857878	CMakeFiles/Convert_decimals_to_fractions.dir/main.cpp.o	e6adc03eb06b6555
+1072	1355	1686479073067872040	Convert_decimals_to_fractions	c7a1bd5485240a4f
+2	1076	1686479090288742991	CMakeFiles/Convert_decimals_to_fractions.dir/main.cpp.o	e6adc03eb06b6555
+1076	1360	1686479090572757356	Convert_decimals_to_fractions	c7a1bd5485240a4f

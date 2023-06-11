@@ -1,0 +1,8 @@
+# ninja log v5
+2	533	1686215559875727088	CMakeFiles/The_Circle_class.dir/CircleWithContactMemberFunctions.cpp.o	9b76e76b79bc6d3f
+0	1108	1686215560447727068	CMakeFiles/The_Circle_class.dir/main.cpp.o	740fc0ec5681b758
+1115	1488	1686215560827727055	The_Circle_class	fdcb6ee3d2b7aa17
+2	975	1686216042871710231	CMakeFiles/The_Circle_class.dir/main.cpp.o	740fc0ec5681b758
+975	1252	1686216043147710221	The_Circle_class	fdcb6ee3d2b7aa17
+2	907	1686216120547707520	CMakeFiles/The_Circle_class.dir/main.cpp.o	740fc0ec5681b758
+908	1185	1686216120823707510	The_Circle_class	fdcb6ee3d2b7aa17

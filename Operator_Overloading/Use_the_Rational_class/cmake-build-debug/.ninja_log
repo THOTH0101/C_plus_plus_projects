@@ -1,0 +1,27 @@
+# ninja log v5
+3	1085	1686002515395809125	CMakeFiles/Use_the_Rational_class.dir/Rational.cpp.o	f55f56a50bf7ac70
+1	1202	1686005161146016530	CMakeFiles/Use_the_Rational_class.dir/main.cpp.o	ebf9e87aed6bb8af
+1202	1476	1686005161418432287	Use_the_Rational_class	6be4fff8df87d646
+2	2283	1686089698335947478	CMakeFiles/Use_the_Rational_class.dir/main.cpp.o	ebf9e87aed6bb8af
+2284	3318	1686089699371947442	Use_the_Rational_class	6be4fff8df87d646
+2	1190	1686089750131945670	CMakeFiles/Use_the_Rational_class.dir/main.cpp.o	ebf9e87aed6bb8af
+1191	1466	1686089750407945660	Use_the_Rational_class	6be4fff8df87d646
+2	1185	1686089783731944497	CMakeFiles/Use_the_Rational_class.dir/main.cpp.o	ebf9e87aed6bb8af
+1186	1458	1686089784003944488	Use_the_Rational_class	6be4fff8df87d646
+2	1177	1686089877547941223	CMakeFiles/Use_the_Rational_class.dir/main.cpp.o	ebf9e87aed6bb8af
+1177	1447	1686089877815941214	Use_the_Rational_class	6be4fff8df87d646
+3	1184	1686089911163940050	CMakeFiles/Use_the_Rational_class.dir/main.cpp.o	ebf9e87aed6bb8af
+1185	1463	1686089911439940040	Use_the_Rational_class	6be4fff8df87d646
+2	1185	1686090082651934064	CMakeFiles/Use_the_Rational_class.dir/main.cpp.o	ebf9e87aed6bb8af
+1186	1469	1686090082935934055	Use_the_Rational_class	6be4fff8df87d646
+3	1191	1686090117835932836	CMakeFiles/Use_the_Rational_class.dir/main.cpp.o	ebf9e87aed6bb8af
+1191	1461	1686090118103932827	Use_the_Rational_class	6be4fff8df87d646
+2	1298	1686090157871931439	CMakeFiles/Use_the_Rational_class.dir/main.cpp.o	ebf9e87aed6bb8af
+1299	1585	1686090158191931428	Use_the_Rational_class	6be4fff8df87d646
+2	996	1686090494911919676	CMakeFiles/Use_the_Rational_class.dir/main.cpp.o	ebf9e87aed6bb8af
+4	1153	1686090495067919670	CMakeFiles/Use_the_Rational_class.dir/Rational.cpp.o	f55f56a50bf7ac70
+1154	1412	1686090495327919661	Use_the_Rational_class	6be4fff8df87d646
+3	1015	1686090539539918118	CMakeFiles/Use_the_Rational_class.dir/main.cpp.o	ebf9e87aed6bb8af
+1015	1279	1686090539799918109	Use_the_Rational_class	6be4fff8df87d646
+2	977	1686090554663917590	CMakeFiles/Use_the_Rational_class.dir/main.cpp.o	ebf9e87aed6bb8af
+978	1238	1686090554919917581	Use_the_Rational_class	6be4fff8df87d646
