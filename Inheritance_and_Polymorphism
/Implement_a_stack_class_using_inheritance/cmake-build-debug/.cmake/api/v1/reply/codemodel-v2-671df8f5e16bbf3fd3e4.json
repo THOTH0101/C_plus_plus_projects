@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Implement_a_stack_class_using_inheritance",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Implement_a_stack_class_using_inheritance::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Implement_a_stack_class_using_inheritance-Debug-269360ae6b96d82e96a1.json",
+					"name" : "Implement_a_stack_class_using_inheritance",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/thoth/CLionProjects/Implement_a_stack_class_using_inheritance/cmake-build-debug",
+		"source" : "/home/thoth/CLionProjects/Implement_a_stack_class_using_inheritance"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,7 @@
+# ninja log v5
+3	263	1686883843683534402	CMakeFiles/Extend_MyPoint.dir/ThreeDPoint.cpp.o	f7dc04af8b5a94af
+2	274	1686883843691534401	CMakeFiles/Extend_MyPoint.dir/MyPoint.cpp.o	b6c9976cabf2f334
+0	915	1686883844331534379	CMakeFiles/Extend_MyPoint.dir/main.cpp.o	dfc5ed95f2ce34cb
+919	1225	1686883844639534368	Extend_MyPoint	500b58c20ff38d8f
+2	896	1686883871227533440	CMakeFiles/Extend_MyPoint.dir/main.cpp.o	dfc5ed95f2ce34cb
+897	1195	1686883871523533430	Extend_MyPoint	500b58c20ff38d8f

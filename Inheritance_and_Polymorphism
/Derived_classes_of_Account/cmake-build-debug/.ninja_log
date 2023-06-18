@@ -1,0 +1,6 @@
+# ninja log v5
+1	2621	1686904385039936389	CMakeFiles/Derived_classes_of_Account.dir/main.cpp.o	d82474bc98788fa4
+4	2650	1686904385067936388	CMakeFiles/Derived_classes_of_Account.dir/CheckingAccount.cpp.o	d18288c09c226435
+3	2652	1686904385071936388	CMakeFiles/Derived_classes_of_Account.dir/Account.cpp.o	e87dbf423e255706
+2626	3499	1686904385919936359	CMakeFiles/Derived_classes_of_Account.dir/SavingAccount.cpp.o	7dc4ebb1c55dc56
+3500	5115	1686904387531936302	Derived_classes_of_Account	c050a6c100dc7ed2

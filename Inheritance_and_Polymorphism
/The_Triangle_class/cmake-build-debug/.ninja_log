@@ -1,0 +1,7 @@
+# ninja log v5
+2	2787	1686838759863867743	CMakeFiles/The_Triangle_class.dir/Triangle.cpp.o	cc595c6c830e3f9c
+0	2793	1686838759863867743	CMakeFiles/The_Triangle_class.dir/main.cpp.o	c5143cb09c73f699
+3	2795	1686838759863867743	CMakeFiles/The_Triangle_class.dir/GeometricObject.cpp.o	c5f5f232c61f3f2b
+2795	3900	1686838760971867705	The_Triangle_class	a8ddd850854910fd
+3	950	1686838915443862313	CMakeFiles/The_Triangle_class.dir/main.cpp.o	c5143cb09c73f699
+950	1243	1686838915735862303	The_Triangle_class	a8ddd850854910fd
