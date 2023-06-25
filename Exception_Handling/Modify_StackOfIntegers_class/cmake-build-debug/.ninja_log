@@ -1,0 +1,6 @@
+# ninja log v5
+3	651	1687394315699888970	CMakeFiles/Modify_StackOfIntegers_class.dir/StackOfIntegers.cpp.o	43d4a03cbbfc1a30
+1	908	1687394315955888961	CMakeFiles/Modify_StackOfIntegers_class.dir/main.cpp.o	c8f0bf775be425
+908	1171	1687394316215888952	Modify_StackOfIntegers_class	e0e1101a82291c09
+2	904	1687394368247887135	CMakeFiles/Modify_StackOfIntegers_class.dir/main.cpp.o	c8f0bf775be425
+905	1171	1687394368511887126	Modify_StackOfIntegers_class	e0e1101a82291c09

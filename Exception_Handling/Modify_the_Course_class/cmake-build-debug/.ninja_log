@@ -1,0 +1,23 @@
+# ninja log v5
+0	1051	1687277056927906064	CMakeFiles/Modify_the_Course_class.dir/main.cpp.o	bfc7332728d7a4fd
+1	1107	1687277056983906062	CMakeFiles/Modify_the_Course_class.dir/Course.cpp.o	711b5319a867e977
+1108	1371	1687277057247906052	Modify_the_Course_class	8dcc455eaf32b596
+2	929	1687277553675888726	CMakeFiles/Modify_the_Course_class.dir/Course.cpp.o	711b5319a867e977
+929	1241	1687277553987888715	Modify_the_Course_class	8dcc455eaf32b596
+2	934	1687278269955863727	CMakeFiles/Modify_the_Course_class.dir/main.cpp.o	bfc7332728d7a4fd
+4	1015	1687278270035863724	CMakeFiles/Modify_the_Course_class.dir/Course.cpp.o	711b5319a867e977
+1016	1290	1687278270307863714	Modify_the_Course_class	8dcc455eaf32b596
+2	923	1687278292515862939	CMakeFiles/Modify_the_Course_class.dir/main.cpp.o	bfc7332728d7a4fd
+923	1188	1687278292775862930	Modify_the_Course_class	8dcc455eaf32b596
+3	926	1687278325199861798	CMakeFiles/Modify_the_Course_class.dir/main.cpp.o	bfc7332728d7a4fd
+926	1186	1687278325455861789	Modify_the_Course_class	8dcc455eaf32b596
+2	917	1687278340799861254	CMakeFiles/Modify_the_Course_class.dir/main.cpp.o	bfc7332728d7a4fd
+917	1178	1687278341059861245	Modify_the_Course_class	8dcc455eaf32b596
+3	1000	1687279021667837490	CMakeFiles/Modify_the_Course_class.dir/main.cpp.o	bfc7332728d7a4fd
+1000	1270	1687279021935837481	Modify_the_Course_class	8dcc455eaf32b596
+3	914	1687279059583836167	CMakeFiles/Modify_the_Course_class.dir/main.cpp.o	bfc7332728d7a4fd
+914	1185	1687279059851836158	Modify_the_Course_class	8dcc455eaf32b596
+2	917	1687279091071835068	CMakeFiles/Modify_the_Course_class.dir/main.cpp.o	bfc7332728d7a4fd
+918	1179	1687279091331835059	Modify_the_Course_class	8dcc455eaf32b596
+2	921	1687279110935834375	CMakeFiles/Modify_the_Course_class.dir/main.cpp.o	bfc7332728d7a4fd
+921	1183	1687279111195834366	Modify_the_Course_class	8dcc455eaf32b596

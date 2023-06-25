@@ -1,0 +1,9 @@
+# ninja log v5
+0	1117	1687281983319734123	CMakeFiles/HexFormatException.dir/main.cpp.o	37cb418e764f8e1f
+1122	1403	1687281983603734113	HexFormatException	b45fd603d895ee39
+3	930	1687282196899726669	CMakeFiles/HexFormatException.dir/main.cpp.o	37cb418e764f8e1f
+931	1195	1687282197163726659	HexFormatException	b45fd603d895ee39
+2	940	1687282283627723642	CMakeFiles/HexFormatException.dir/main.cpp.o	37cb418e764f8e1f
+941	1199	1687282283887723633	HexFormatException	b45fd603d895ee39
+2	974	1687282361415720927	CMakeFiles/HexFormatException.dir/main.cpp.o	37cb418e764f8e1f
+975	1237	1687282361679720917	HexFormatException	b45fd603d895ee39

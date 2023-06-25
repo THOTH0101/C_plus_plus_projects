@@ -1,0 +1,10 @@
+# ninja log v5
+1	913	1687280332991791723	CMakeFiles/Modify_the_Rational_class.dir/main.cpp.o	cb0f552c2d10a263
+2	1104	1687280333179791716	CMakeFiles/Modify_the_Rational_class.dir/RationalWithOperators.cpp.o	e4933e38dc53ef4c
+1104	1369	1687280333443791707	Modify_the_Rational_class	c3a4d1504828b455
+2	912	1687280387587789817	CMakeFiles/Modify_the_Rational_class.dir/main.cpp.o	cb0f552c2d10a263
+913	1188	1687280387859789808	Modify_the_Rational_class	c3a4d1504828b455
+2	895	1687280401679789325	CMakeFiles/Modify_the_Rational_class.dir/main.cpp.o	cb0f552c2d10a263
+896	1163	1687280401943789316	Modify_the_Rational_class	c3a4d1504828b455
+2	896	1687280413395788916	CMakeFiles/Modify_the_Rational_class.dir/main.cpp.o	cb0f552c2d10a263
+896	1155	1687280413651788907	Modify_the_Rational_class	c3a4d1504828b455

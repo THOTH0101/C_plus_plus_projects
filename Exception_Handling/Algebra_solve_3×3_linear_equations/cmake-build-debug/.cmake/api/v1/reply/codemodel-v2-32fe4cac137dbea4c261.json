@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Algebra_solve_3_3_linear_equations",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Algebra_solve_3_3_linear_equations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Algebra_solve_3_3_linear_equations-Debug-3a70b26d32825e864940.json",
+					"name" : "Algebra_solve_3_3_linear_equations",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/thoth/CLionProjects/Algebra_solve_3\u00d73_linear_equations/cmake-build-debug",
+		"source" : "/home/thoth/CLionProjects/Algebra_solve_3\u00d73_linear_equations"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

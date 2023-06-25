@@ -50,13 +50,9 @@ void printArray(const int array[])
         //loop to control columns
         for(int j = 0; j < COLUMN_MAX; j++)
         {
-            if(array[i * COLUMN_MAX + j] == 1)
-                cout << "|Q|";
-            else
-                cout << "| |";
+            cout << (array[i * COLUMN_MAX + j] == 1 ? "|Q" : "| ");
         }
-
-        cout << endl; //move to the next line
+        cout << "|\n";
     }
 }
 

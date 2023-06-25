@@ -1,4 +1,4 @@
-# Install script for directory: /home/THOTH/CLionProjects/Game_Eight_Queens
+# Install script for directory: /home/thoth/c_plus_plus_projects/Single-Dimensional_Arrays_&_C-Strings/Game_Eight_Queens
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/THOTH/CLionProjects/Game_Eight_Queens/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/thoth/c_plus_plus_projects/Single-Dimensional_Arrays_&_C-Strings/Game_Eight_Queens/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
