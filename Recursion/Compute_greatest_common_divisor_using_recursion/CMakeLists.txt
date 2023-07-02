@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.23)
+project(Compute_greatest_common_divisor_using_recursion)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Compute_greatest_common_divisor_using_recursion main.cpp)

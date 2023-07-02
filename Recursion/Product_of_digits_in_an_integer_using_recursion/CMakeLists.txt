@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.23)
+project(Product_of_digits_in_an_integer_using_recursion)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Product_of_digits_in_an_integer_using_recursion main.cpp)

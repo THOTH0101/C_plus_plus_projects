@@ -1,0 +1,3 @@
+/home/thoth/CLionProjects/Count_even_and_odd_digits/cmake-build-debug/CMakeFiles/Count_even_and_odd_digits.dir
+/home/thoth/CLionProjects/Count_even_and_odd_digits/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/thoth/CLionProjects/Count_even_and_odd_digits/cmake-build-debug/CMakeFiles/rebuild_cache.dir

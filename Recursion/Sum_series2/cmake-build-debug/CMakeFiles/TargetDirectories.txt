@@ -1,0 +1,3 @@
+/home/thoth/CLionProjects/Sum_series2/cmake-build-debug/CMakeFiles/Sum_series2.dir
+/home/thoth/CLionProjects/Sum_series2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/thoth/CLionProjects/Sum_series2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
