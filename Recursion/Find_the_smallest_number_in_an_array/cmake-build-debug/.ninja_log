@@ -1,0 +1,5 @@
+# ninja log v5
+980	1255	1688461570763910555	Find_the_smallest_number_in_an_array	7349176f64f0a02d
+3	980	1688461570487910564	CMakeFiles/Find_the_smallest_number_in_an_array.dir/main.cpp.o	6e2f4ab0af1c932b
+1	2287	1688475086563969057	CMakeFiles/Find_the_smallest_number_in_an_array.dir/main.cpp.o	6e2f4ab0af1c932b
+2287	8565	1688475092843968838	Find_the_smallest_number_in_an_array	7349176f64f0a02d

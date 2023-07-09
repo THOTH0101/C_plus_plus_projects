@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.23)
+project(Find_the_number_of_lowercase_letters_in_a_string)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Find_the_number_of_lowercase_letters_in_a_string main.cpp)
