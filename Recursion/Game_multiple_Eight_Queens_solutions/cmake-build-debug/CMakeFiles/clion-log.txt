@@ -1,0 +1,4 @@
+/opt/clion-2022.2.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /home/thoth/CLionProjects/Game_multiple_Eight_Queens_solutions -B /home/thoth/CLionProjects/Game_multiple_Eight_Queens_solutions/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/thoth/CLionProjects/Game_multiple_Eight_Queens_solutions/cmake-build-debug

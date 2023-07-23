@@ -1,0 +1,46 @@
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /home/thoth/CLionProjects/Game_multiple_Sudoku_solutions/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/clion-2022.2.4/bin/ninja/linux/ninja cmTC_6a02f && ninja: error: unknown target 'cmTC_6a02f'
+
+
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /home/thoth/CLionProjects/Game_multiple_Sudoku_solutions/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/clion-2022.2.4/bin/ninja/linux/ninja cmTC_74b80 && ninja: error: loading 'build.ninja': No such file or directory
+
+
+
+
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: /home/thoth/CLionProjects/Game_multiple_Sudoku_solutions/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/clion-2022.2.4/bin/ninja/linux/ninja cmTC_2bc6f && ninja: error: unknown target 'cmTC_2bc6f'
+
+
+
+
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: /home/thoth/CLionProjects/Game_multiple_Sudoku_solutions/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/clion-2022.2.4/bin/ninja/linux/ninja cmTC_41997 && ninja: error: loading 'build.ninja': No such file or directory
+
+
+
+
+Determining if the CXX compiler works failed with the following output:
+Change Dir: /home/thoth/CLionProjects/Game_multiple_Sudoku_solutions/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/clion-2022.2.4/bin/ninja/linux/ninja cmTC_c4166 && ninja: error: unknown target 'cmTC_c4166'
+
+
+
+Determining if the CXX compiler works failed with the following output:
+Change Dir: /home/thoth/CLionProjects/Game_multiple_Sudoku_solutions/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/clion-2022.2.4/bin/ninja/linux/ninja cmTC_0b25e && ninja: error: loading 'build.ninja': No such file or directory
+
+
+
