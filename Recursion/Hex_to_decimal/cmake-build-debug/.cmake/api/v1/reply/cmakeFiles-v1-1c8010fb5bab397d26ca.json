@@ -728,8 +728,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/home/thoth/CLionProjects/Game-hangman/cmake-build-debug",
-		"source" : "/home/thoth/CLionProjects/Game-hangman"
+		"build" : "/home/thoth/CLionProjects/Hex_to_decimal/cmake-build-debug",
+		"source" : "/home/thoth/CLionProjects/Hex_to_decimal"
 	},
 	"version" : 
 	{

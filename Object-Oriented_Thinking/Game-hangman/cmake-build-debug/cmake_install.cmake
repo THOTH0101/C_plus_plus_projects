@@ -1,4 +1,4 @@
-# Install script for directory: /home/thoth/CLionProjects/Game-hangman
+# Install script for directory: /home/thoth/c_plus_plus_projects/Object-Oriented_Thinking/Game-hangman
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/thoth/CLionProjects/Game-hangman/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/thoth/c_plus_plus_projects/Object-Oriented_Thinking/Game-hangman/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
